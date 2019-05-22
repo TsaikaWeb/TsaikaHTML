@@ -9,6 +9,7 @@
          return unescape(document.cookie.substring(fromN,toN));
         }
     return null;
+   }
    
 
  function parseCookie()   // ذ ذ°ذ·ذ´ذµذ»ذµذ½ذ¸ذµ cookie
