@@ -10,7 +10,7 @@
         }
     return null;
    
-
+   }
  function parseCookie()   // ذ ذ°ذ·ذ´ذµذ»ذµذ½ذ¸ذµ cookie
    { var cookieList = document.cookie.split("; ");
    // ذœذ°رپرپذ¸ذ² ذ´ذ»رڈ ذ؛ذ°ذ¶ذ´ذ¾ذ³ذ¾ cookie ذ² cookieList
